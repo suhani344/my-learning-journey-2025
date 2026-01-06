@@ -1,1 +1,1 @@
-# my-learning-journey-2025
+# my-learning-journey
