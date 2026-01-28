@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Student Resource Web</title>
+<meta charset="UTF-8">
+<meta name="author" content="Suhani">
+<meta name="description" content="Web Development Resources">
+<link rel="icon" href="html5.png" type="x/icon">
+<link rel="stylesheet" href="main.css " >
+</head>
+<body>
+   <h1>Roadmap To Learn Web Development</h1>
+   <p>Here is the crystal clear Roadmap along with resources and Time table to learn Web Development for Beginners </p>
+   <nav>
+    <ul>
+      <li><a href="#res">RESOURCES</a></li>
+      <li><a href="#duration">TIMELINE</a> </li>
+      <li><a href="#tip">TIPS TO IMPROVE</a> </li>
+    </ul>
+
+   </nav>
+
+   <hr>
+   <section id="res">
+   <h2>⭐️Resources</h2>
+   <figure>
+   <img src="img/download.png" alt="Web development image" title="Web Development" width="300" height="300">
+   <figcaption>Web Development</figcaption>
+</figure>
+
+   <p>There are three parts of Web Development</p>
+   <ol>
+    <li><a href=#front>Frontend</a></li>
+    <li><a href=#back>Backend</a></li>
+    <li><a href="#db">Databases</a></li>
+   </ol>
+   </section>
+   <section id="front">
+
+   <h3>◆Resources For Frontend</h3>
+   <p>Frontend is basically the part of the web which is visible to Users</p>
+   <p>Things to learn in Frontend</p>
+   <ul>
+
+    <li> HTML 
+    
+      <p>Dave Gray<a href="https://www.youtube.com/watch?v=mJgBOIoGihA" >[HTMLYoutubePlaylist]</a></p>
+      <figure><img src="img/html5.png" alt="HTML5 Logo" title="HTML5" width="100" height="100">
+        <figcaption>HTML5</figcaption>
+</figure>
+    </li>
+
+    <li>CSS
+
+    <p>Dave Gray<a href="https://www.youtube.com/watch?v=n4R2E7O-Ngo">[CSS Youtube Playlist]</a>
+      </p>
+      <figure>
+      <img src="img/hd-css3-round-logo-icon-transparent-png-701751694771807mljmgxztmt.png" alt="CSS3 Logo" title="CSS3" width="100" height="100">
+      <figcaption>CSS3</figcaption>
+    </figure>
+    </li>
+    
+    <li>JavaScript
+      <p>Web Dev Simplified<a href="https://youtube.com/playlist?list=PLZlA0Gpn_vH9k5ju1yq9qCDqvtuTVgTr6&si=ziki3ERRu87oJRGE">[JavaScript Beginners Youtube Playlist]</a></p>
+<figure>
+      <img src="img/download(1).png" alt="JavaScript Logo" title="JavaScript" width="100" height="100">
+      <figcaption>JavaScript</figcaption>
+    </figure>
+    </li>
+   </ul>
+<br>
+   </section>
+<section id="back">
+
+<h3>◆Resources For Backend </h3>
+   <p>Backend is  the part of the web which is only visible to Developer and is kept hidden from Users as it is not necessary</p>
+   <p>Things to learn in Backend</p>
+   <ul>
+    <li> NodeJS 
+      <p>PedroTech<a href="https://youtube.com/playlist?list=PLpPqplz6dKxXn6oItzG3rfR8fWxxQJPk9&si=jVLQP27X921uF0G3" >[NodeJS YoutubePlaylist]</a></p>
+      <figure>
+      <img src="img/download(1).jpeg" alt="NodeJS " title="NodeJS" width="100" height="100">
+     <figcaption>NodeJS</figcaption>
+      </figure>
+      </li>
+     </ul>
+     </section>
+<section id="db">
+   <br>
+
+     <h3>◆Resources For Database </h3>
+     <p>Database is the part of the where all the data is stored</p>
+     <ul>
+    <li>MongoDB
+      <p>
+    Web Dev Simplified <a href="https://youtu.be/ofme2o29ngU?si=bXMI2o4yFUF4wafv">[MongoDB in 30 minutes from Youtube ]</a>
+    </p>
+    <figure>
+      <img src="img/download(2).png" alt="MongoDB Logo" title="MongoDB" width="100" height="100">
+<figcaption>MongoDB</figcaption>
+      </figure>
+     </li>
+   </ul>
+</section>
+<hr>
+<section id="duration">
+
+   <h2>⭐️DURATION OF LEARNING</h2>
+<p>The duration may vary from person to persoon, so this table is just a reference for the timeline to learn each part of the web development.</p>
+
+<table>
+  <caption>TIMELINE</caption>
+  <thead><tr>
+  <th>&nbsp;</th>
+  <th>Items</th>
+  <th>Duration</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td rowspan="3">Frontend</td>
+    <td>HTML</td>
+    <td>1 Week</td>
+  </tr>
+  <tr>
+  <td>CSS</td>
+  <td>2 Weeks</td>
+  </tr>
+  <tr>
+  <td>JavaScript</td>
+  <td>4 Weeks</td>
+</tr>
+<tr>
+  <td>Backend</td>
+  <td>NodeJs</td>
+  <td>1 Month</td>
+
+</tr>
+<tr>
+  <td>Databases</td>
+  <td>MongoDB</td>
+  <td>1 Month</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+  <td colspan="3">Duration may also vary according to the Resources</td>
+</tr>
+</tfoot>
+</table>
+</section>
+
+<br>
+
+<hr>
+
+<br>
+<section id="tip">
+<h2>⭐️TIPS TO IMPROVE</h2>
+<ol>
+  <li>Don't Just Randomly Switch Learning Resources.</li>
+  <li>Do Practice After Watching Each Tutorial.</li>
+  <li>Try To Build Something By Your Own.</li>
+  <li>Don't Freak out If you don't understand something.</li>
+</ol>
+</section>
+
+</body>
+</html>
